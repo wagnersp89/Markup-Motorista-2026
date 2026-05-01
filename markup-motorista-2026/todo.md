@@ -1,0 +1,4 @@
+- [x] Confirmar a estratégia de publicação externa mais adequada para um projeto React/Vite estático exportado do Manus.
+- [x] Verificar scripts e detalhes técnicos do projeto que impactam o deploy fora do Manus.
+- [x] Redigir um tutorial passo a passo com exportação, ajustes e publicação em hospedagem externa.
+- [x] Entregar o tutorial final ao usuário.
